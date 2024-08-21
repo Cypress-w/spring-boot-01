@@ -1,2 +1,5 @@
 serve:
   port: 8080
+spring:
+  application:
+    name: spring-boot01  
